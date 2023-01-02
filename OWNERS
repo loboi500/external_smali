@@ -1,4 +1,3 @@
-# Default code reviewers picked from top 3 or more developers.
-# Please update this list if you find better candidates.
-bgruv@google.com
-narayan@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aaa5d81376203388acd3704abe63eb00e43cc702c1ded66aa157199c389a98d
+size 156

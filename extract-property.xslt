@@ -1,4 +1,3 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:pom="http://maven.apache.org/POM/4.0.0" version="1.0">
-  <xsl:output method="text"/>
-  <xsl:template match="/"><xsl:value-of select="//pom:aversion"/></xsl:template>
-</xsl:stylesheet>
+version https://git-lfs.github.com/spec/v1
+oid sha256:82265ac8f15f18f53ec81cc88b7a5f01e8e12599d177d2c3198186b77ebf9ca0
+size 254

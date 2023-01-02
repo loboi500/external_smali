@@ -1,5 +1,3 @@
-include 'util', 'dexlib2', 'baksmali', 'smali', 'dexlib2:accessorTestGenerator'
-
-if (System.getProperty("user.dir").startsWith(file("smalidea").absolutePath)) {
-    include 'smalidea'
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a20d4c372e5da2983b3f44c1bc6ca582081d154bb2d3a9592371b307d7507a
+size 185
